@@ -1,0 +1,54 @@
+AU字段
+'''
+e.g. Alkhuraisi, F###Alqarni, F###Daghriri, O###Algarni, T###Alqahtani, A###Syed, W###Al-Rawi, MBA
+'''
+RI字段
+'''
+作者research ID
+e.g. Milan, Marcos/P-9174-2015; Peloia, Paulo/H-7454-2012; Gimenez,###Leandro/B-3059-2015
+'''
+OI字段
+'''
+作者ORCID
+e.g. Peloia, Paulo/0000-0002-3429-1884; Gimenez, Leandro/0000-0002-6408-2688
+'''
+PY字段
+'''
+出版年
+e.g. 2023
+'''
+CR字段
+'''
+参考文献
+e.g. Alvares CA, 2013, METEOROL Z, V22, P711, DOI 10.1127/0941-2948/2013/0507###Sentelhas PC, 2015, J AGR SCI-CAMBRIDGE, V153, P1394, DOI 10.1017/S0021859615000313###Sentelhas PC, 2010, AGR WATER MANAGE, V97, P635, DOI 10.1016/j.agwat.2009.12.001
+'''
+C1字段
+'''
+附属机构
+e.g. [Romanelli, Thiago Liborio] Univ Sao Paulo, ESALQ, Dept Engn Biossistemas, Ave Paduas Dias 11, BR-13418900 Piracicaba, SP, Brazil.###[Boffino de Almeida Monteiro, Jose Eduardo] Embrapa Uva & Vinho, R Livramento 515, BR-95700000 Bento Goncalves, RS, Brazil.
+'''
+DI字段
+'''
+DOI值
+e.g. 10.1590/1678-992X-v80obituary
+'''
+SO字段
+'''
+来源出版物
+e.g. MOLECULES AND CELLS
+'''
+J9字段
+'''
+期刊简写
+e.g. MATER DESIGN 
+'''
+BP字段
+'''
+开始页
+e.g. 28
+'''
+VL字段
+'''
+卷
+e.g.23 
+'''
