@@ -240,9 +240,9 @@ if __name__ == "__main__":
     # 配置数据库连接
     db_config = {
         'username': 'root',
-        'password': 'luyi123456',
+        'password': 'xxxxx',
         'host': 'localhost',
-        'database': 'wos_data'
+        'database': 'xxxxx'
     }
     
     # 初始化匹配器
@@ -250,7 +250,7 @@ if __name__ == "__main__":
     
     # 自定义匹配组合
     match_results = matcher.batch_match(
-        citing_tables=['2023esi_Physics_of_Fluids'],  # 施引表列表 # 2023esi_farmacia/2023esi_Physics_of_Fluids
+        citing_tables=['2023esi_Physics_of_Fluids'],  # 施引表列表——改成你所要处理的表，下面同理。
         cited_tables=['2023esi_Physics_of_Fluids'],   # 被引表列表
         result_table_format="{citing_table}_citing_{cited_table}"  # 自定义结果表名
     )
